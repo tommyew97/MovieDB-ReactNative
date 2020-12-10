@@ -1,0 +1,14 @@
+.idea
+backend/backend/__pycache__
+venv/
+env/
+backend/env/
+backend/mydatabase
+frontend/package-lock.json
+__pycache__
+mydatabase
+__migrations__
+migrations
+frontend/debug.log
+frontend/.nyc_output/out.json
+package-lock.json
